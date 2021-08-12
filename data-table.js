@@ -78,7 +78,7 @@ Vue.component('data-table',{
                     
                 },
                 {
-                    Nombres: 'Steven',
+                    Nombres: 'Jostin',
                     Apellidos: 'Quimi',
                     Cedula: '0923599890',
                     Telefono: '0990924825',
@@ -86,8 +86,8 @@ Vue.component('data-table',{
                     
                 },
                 {
-                    Nombres: 'Steven',
-                    Apellidos: 'Quimi',
+                    Nombres: 'Laura',
+                    Apellidos: 'Maldonado',
                     Cedula: '0923599890',
                     Telefono: '0990924825',
                     Correo: 'stevoperezbsc@hotmail.com',
