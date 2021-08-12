@@ -5,8 +5,11 @@ Vue.component('data-table',{
     <v-row>
         <v-col>
             <v-card shaped elevation="8">
+                <v-btn small right absolute class="mt-8" color="red darken-4" dark rounded>
+                    <v-icon class="mr-2">mdi-plus</v-icon>Agregar Usuario</v-btn>
                 <v-card-title>Usuarios del Sistema</v-card-title>
                 <v-card-subtitle>Usuario Administrativo</v-card-subtitle>
+                
                 <v-divider></v-divider>             
                 <v-card-text>
 
