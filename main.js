@@ -154,6 +154,8 @@ var app= new Vue({
 
                 <data-table>
                 </data-table>
+                <formularios-general>
+                </formularios-general>
         
             </v-container>
         </v-main>
